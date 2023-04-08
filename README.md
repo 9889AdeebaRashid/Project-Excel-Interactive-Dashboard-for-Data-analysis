@@ -1,7 +1,7 @@
 # Project-Excel-Interactive-Dashboard-for-Data-analysis
 #AIM: TO show Various insights of Vrinda Store Using EXCEL by using DATA ANALYSIS.
  
-#Objective: Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their cuatomers and grow more sales in 2023.
+#Objective: Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 # Data set link: https://docs.google.com/spreadsheets/d/1M5TtZtT08zSYDvnZLbLFed0GgAs2aid8/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
 

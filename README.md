@@ -3,9 +3,9 @@
  
 #Objective: Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their cuatomers and grow more sales in 2023.
 
-#Data set link: https://docs.google.com/spreadsheets/d/1LzLqFTc-Afyf8kF450kK807HYL7D7D_o/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
+# Data set link: https://docs.google.com/spreadsheets/d/1LzLqFTc-Afyf8kF450kK807HYL7D7D_o/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
 
-#SAMPLE QUESTIONS:
+# SAMPLE QUESTIONS:
 1) Compare the sales and orders using single chart.
 2) Which month got the highest sales and orders?
 3) Who purchased more-men or women in 2022?
@@ -17,7 +17,7 @@
 
 ![Insights](https://user-images.githubusercontent.com/80636537/230713850-a6b28aff-9015-4250-9d59-06cedd7bccf6.jpeg)
 
-#Sample Insights:
+# Sample Insights:
 * Women are more likely to buy compared to men(~65%)
 * Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(1`35%)
 * Adult age group (30-49 years) is max contributing(~50%)
@@ -25,5 +25,5 @@
 
 
 
-#Final Conclusion to improve Vrinda store sales in 2023:-
+# Final Conclusion to improve Vrinda store sales in 2023:-
 *Target women customers of age group(30-49 yeas) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupns available on Amazon, Flipkart and Myntra.

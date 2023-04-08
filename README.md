@@ -3,7 +3,7 @@
  
 #Objective: Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their cuatomers and grow more sales in 2023.
 
-# Data set link: https://docs.google.com/spreadsheets/d/1LzLqFTc-Afyf8kF450kK807HYL7D7D_o/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
+# Data set link: https://docs.google.com/spreadsheets/d/1M5TtZtT08zSYDvnZLbLFed0GgAs2aid8/edit?usp=drivesdk&ouid=118041300348590541890&rtpof=true&sd=true
 
 # SAMPLE QUESTIONS:
 1) Compare the sales and orders using single chart.
